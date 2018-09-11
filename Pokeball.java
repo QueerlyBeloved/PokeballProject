@@ -1,4 +1,3 @@
-
 public class Pokeball {
 
 	public static void main(String[] args) {
@@ -7,7 +6,7 @@ public class Pokeball {
 		System.out.println("  @@@@@@@@@@@@  ");
 		System.out.println(" @@@@@@@@@@@@@@ ");
 		System.out.println("@@@@@@@@@@@@@@@@");
-		System.out.println("|||||[““““]|||||");
+		System.out.println("|||||[\"\"\"\"]|||||");
 		System.out.println("|||||[....]|||||");
 		System.out.println("OOOOOOOOOOOOOOOO");
 		System.out.println(" OOOOOOOOOOOOOO ");
